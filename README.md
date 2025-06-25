@@ -29,3 +29,6 @@ Improved React component structuring
 Mastered responsive web design with Tailwind CSS
 
 Gained hands-on experience with smooth scrolling and animations
+
+![image](https://github.com/user-attachments/assets/1df807ac-d2a0-43fd-ac7a-04c868c6578b)
+
